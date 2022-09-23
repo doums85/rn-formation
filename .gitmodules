@@ -1,0 +1,12 @@
+[submodule "rn-basics-todo"]
+	path = rn-basics-todo
+	url = https://github.com/doums85/rn-basics-todo
+[submodule "rn-guess-my-number"]
+	path = rn-guess-my-number
+	url = https://github.com/doums85/rn-guess-my-number
+[submodule "rn-rick-morty"]
+	path = rn-rick-morty
+	url = https://github.com/doums85/rn-rick-morty
+[submodule "rn-book-store-app"]
+	path = rn-book-store-app
+	url = https://github.com/doums85/rn-book-store-app
